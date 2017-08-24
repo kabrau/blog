@@ -11,3 +11,9 @@ create
 
 active
   * activate TensorFlow
+
+desactive
+ * deactivate
+ 
+remove
+ * conda remove --name TensorFlow --all
